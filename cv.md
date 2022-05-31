@@ -1,21 +1,25 @@
 # Mikhail Oleynikov
 
-## Junior Frontend Developer
+### Junior Frontend Developer
 
 ---
 
-## Contact information
+### Contact information
 
 * __Phone:__ +7 962-827-2771
 * __E-mail:__ mn.oleynikov@gmail.com
 * __Discord:__ Olmer#9647
 * __Github__: [Olmeor](https://github.com/Olmeor)
 
-## About me
+---
+
+### About me
 
 I'm a highly dedicated and driven professional with an outstanding background in customer services & facilities management. I enjoy the hands on approach and being part of a successful and productive team. I can quickly grasp new ideas and concepts that are introduced. Able to work well on own initiative and can demonstrate the highest levels of organisation. Even within a highly pressurised working environment, I have a strong ability to perform effectively. I possess excellent interpersonal skills and can communicate concisely at all levels. Now I really want to become a frontend-developer, that's why I'm study at RS School.
 
-## Skills and Proficiency
+---
+
+### Skills and Proficiency
 
 * HTML5, CSS3
 * JavaScript Basic
@@ -23,7 +27,9 @@ I'm a highly dedicated and driven professional with an outstanding background in
 * Git, GitHub
 * VS Code, IntelliJ IDEA, PyCharm
 
-## Code example
+---
+
+### Code example
 
 *Reverse a String With a Decrementing For Loop*
 
@@ -37,7 +43,9 @@ const reverseString = (str) => {
 };
 ```
 
-## Experience
+---
+
+### Experience
 
 __Fiber Opic Engineer, OJSC Rostelecom__, 08/2019 to Current
 
@@ -57,7 +65,9 @@ __Telephone/Network Engineer, OJSC Rostelecom__, 08/2002 to 06/2011
 * ВТ Openreach Installation Engineer, Experience of undertaking all ВТ products and services into customers' homes / business which included analyse technical problems and identify the cause by carrying out relevant on-site diagnostic tests
 * Checking street cabinets, checking faulty equipment etc Installing and serving ВТ Fibre broadband, ВТ Vision, ВТ Telephone lines
 
-## Education
+---
+
+### Education
 
 * __University__:
   * [SibSUTIS](https://sibsutis.ru/en/)
@@ -66,7 +76,9 @@ __Telephone/Network Engineer, OJSC Rostelecom__, 08/2002 to 06/2011
   * [Stepik](https://stepik.org/users/486316676)
   * RS Schools «JavaScript/Front-end. Stage 0» (in progress)
 
-## Languages
+---
+
+### Languages
 
 * English - A1 / Beginner
 * Russian - Native
