@@ -13,7 +13,7 @@
 
 ## About me
 
-I am a highly dedicated and driven professional with an outstanding background in customer services & facilities management. I enjoy the hands on approach and being part of a successful and productive team. I can quickly grasp new ideas and concepts that are introduced. Able to work well on own initiative and can demonstrate the highest levels of organisation. Even within a highly pressurised working environment, I have a strong ability to perform effectively. I possess excellent interpersonal skills and can communicate concisely at all levels. Now I really want to become a frontend-developer, that's why I'm study at RS School.
+I'm a highly dedicated and driven professional with an outstanding background in customer services & facilities management. I enjoy the hands on approach and being part of a successful and productive team. I can quickly grasp new ideas and concepts that are introduced. Able to work well on own initiative and can demonstrate the highest levels of organisation. Even within a highly pressurised working environment, I have a strong ability to perform effectively. I possess excellent interpersonal skills and can communicate concisely at all levels. Now I really want to become a frontend-developer, that's why I'm study at RS School.
 
 ## Skills and Proficiency
 
