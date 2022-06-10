@@ -1,0 +1,234 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  overflow-x: hidden;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  color: #34495e;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+header,
+main,
+footer {
+  max-width: 1440px;
+}
+
+.wrapper {
+  width: 1440px;
+}
+
+footer {
+  background: #aed6f1;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px;
+  margin-top: 40px;
+  font-weight: bold;
+  font-size: 20px;
+  border-top-right-radius: 50px;
+}
+
+.github-icon {
+  width: 35px;
+  position: relative;
+  top: 1px;
+  /*left: 30px;*/
+  margin-right: 5px;
+}
+
+.my-github {
+  display: flex;
+  align-items: center;
+  color: #34495e;
+  text-decoration: none;
+}
+
+.rsschool-icon {
+  height: 30px;
+  position: relative;
+  top: 3px;
+  left: 40px;
+}
+
+.year {
+  position: relative;
+  left: 70px;
+}
+
+.container {
+  display: flex;
+  min-height: calc(100vh - 96px);
+}
+
+.main-nav {
+  flex: 0 0 350px;
+  background: #aed6f1;
+  border-radius: 0 50px 50px 0;
+}
+
+h1,
+h2 {
+  color: #2e86c1;
+}
+
+h3 {
+  margin-bottom: -10px;
+}
+
+nav > section > h2 {
+  text-align: center;
+}
+
+main {
+  flex: 1;
+}
+
+.menu-wrapper > ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-wrapper > ul > li {
+  list-style-type: none;
+  transition: 0.5s;
+  font-weight: 900;
+}
+
+.menu-wrapper > ul > li > a {
+  text-decoration: none;
+  color: #2e86c1;
+  transition: 0.5s;
+}
+
+.menu-wrapper > ul > li > a:hover {
+  color: #85c1e9;
+}
+
+.photo-section {
+  height: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.photo-wrapper,
+.photo-inner {
+  border-radius: 10%;
+}
+
+.photo-wrapper {
+  width: 220px;
+  height: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #2e86c1;
+}
+
+.photo-inner {
+  width: 210px;
+  height: 270px;
+  overflow: hidden;
+  position: relative;
+}
+
+img {
+  position: absolute;
+  width: 220px;
+  top: -5px;
+  left: -5px;
+}
+
+.name-section {
+  text-align: center;
+}
+
+.experience-section > ul > li {
+  padding-top: 5px;
+}
+
+.languages-section > p {
+  padding-left: 40px;
+}
+
+.code-inner {
+  font-size: 13px;
+  padding: 10px 20px 0px 10px;
+  border-radius: 10px;
+  background-color: #d6eaf8;
+}
+
+.dividing-line {
+  margin-bottom: 15px;
+}
+
+.list-contacts {
+  padding: 20px;
+  list-style: none;
+}
+
+.contacts-section > ul > li > a {
+  text-decoration: none;
+  color: #1a5276;
+  font-weight: 900;
+  transition: 0.5s;
+}
+
+.contacts-section > ul > li > a:hover {
+  color: #0000ff;
+}
+
+.courses-section > ul > li > a {
+  text-decoration: none;
+  color: #1a5276;
+  font-weight: 900;
+  transition: 0.5s;
+}
+
+.courses-section > ul > li > a:hover {
+  color: #0000ff;
+}
+
+.projects-section > ul > li > a {
+  text-decoration: none;
+  color: #2471a3;
+  font-weight: 900;
+  transition: 0.5s;
+}
+
+.projects-section > ul > li > a:hover {
+  color: #0000ff;
+}
+
+main > section {
+  padding-left: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: #34495e;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: #2e86c1;
+}
+
+@media screen and (max-width: 670px) {
+  .container {
+    flex-direction: column;
+  }
+  header {
+    display: none;
+  }
+}
