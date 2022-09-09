@@ -10,37 +10,37 @@
 * __E-mail:__ mn.oleynikov@gmail.com
 * __Discord:__ Olmer#9647
 * __Github__: [Olmeor](https://github.com/Olmeor)
+* __Telegram__: @Olmeor
 
 ---
 
 ### About me
 
-I'm a highly dedicated and driven professional with an outstanding background in customer services & facilities management. I enjoy the hands on approach and being part of a successful and productive team. I can quickly grasp new ideas and concepts that are introduced. Able to work well on own initiative and can demonstrate the highest levels of organisation. Even within a highly pressurised working environment, I have a strong ability to perform effectively. I possess excellent interpersonal skills and can communicate concisely at all levels. Now I really want to become a frontend-developer, that's why I'm study at RS School.
+I'm a highly dedicated and driven professional with an outstanding background in telecommunications, customer services & facilities management. I enjoy the hands on approach and being part of a successful and productive team. I can quickly grasp new ideas and concepts that are introduced. Able to work well on own initiative and can demonstrate the highest levels of organisation. Even within a highly pressurised working environment, I have a strong ability to perform effectively. I possess excellent interpersonal skills and can communicate concisely at all levels. Now I really want to become a frontend-developer, that's why I'm study at RS School.
 
 ---
 
 ### Skills and Proficiency
 
 * HTML5, CSS3
-* JavaScript Basic
-* Python
+* JavaScript
+* Python basic
 * Git, GitHub
-* VS Code, IntelliJ IDEA, PyCharm
+* VS Code, WebStrorm
 
 ---
 
 ### Code example
 
-*Reverse a String With a Decrementing For Loop*
+*Code for register on Codewars site:*
 
 ```
-const reverseString = (str) => {
-  let result = '';
-  for (let i = 0; i < str.length; i += 1) {
-    result = `${str[i]}${result}`;
+function multiply(a, b) {
+    if (!a || !b || typeof(a) != "number" || typeof(b) != "number") {
+      return 0;
+    }
+    return a * b;
   }
-  return result;
-};
 ```
 
 ---
@@ -71,11 +71,11 @@ __Telephone/Network Engineer, OJSC Rostelecom__, 08/2002 to 06/2011
 * __Courses__:
   * [Hexlet](https://ru.hexlet.io/u/olmer/courses)
   * [Stepik](https://stepik.org/users/486316676)
-  * RS Schools «JavaScript/Front-end. Stage 0» (in progress)
+  * [RS Schools «JavaScript/Front-end. Stage 0»](https://app.rs.school/certificate/xpwzysky)
 
 ---
 
 ### Languages
 
-* English - A1 / Beginner
+* English - A1 / A2
 * Russian - Native
