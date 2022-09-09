@@ -10,6 +10,7 @@ body {
   overflow-x: hidden;
   font-family: "Trebuchet MS", Arial, sans-serif;
   color: #34495e;
+  font-size: 1.2rem;
 }
 
 html {
@@ -34,7 +35,6 @@ footer {
   padding: 15px;
   margin-top: 40px;
   font-weight: bold;
-  font-size: 20px;
   border-top-right-radius: 50px;
 }
 
@@ -115,7 +115,7 @@ main {
 }
 
 .photo-section {
-  height: 320px;
+  margin: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -271,6 +271,7 @@ main > section {
   display: block;
   width: 300px;
   height: 169px;
+  transition: 0.3s;
 }
 
 .travel:hover,
